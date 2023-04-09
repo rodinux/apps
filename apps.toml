@@ -1130,7 +1130,7 @@ url = "https://github.com/YunoHost-Apps/garage_ynh"
 category = "productivity_and_management"
 level = 8
 potential_alternative_to = [ "Ciel Associations" ]
-state = "working"
+state = "package-not-maintained"
 subtags = [ "business_and_ngos" ]
 url = "https://github.com/YunoHost-Apps/garradin_ynh"
 
